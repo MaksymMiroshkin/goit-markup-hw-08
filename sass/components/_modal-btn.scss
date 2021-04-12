@@ -1,0 +1,47 @@
+.modal_btn_hero {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.87;
+  text-align: center;
+  cursor: pointer;
+  background-color: var(--accent-color);
+  color: #ffffff;
+  border: transparent;
+  border-radius: 4px;
+  letter-spacing: 0.06em;
+  min-width: 200px;
+  padding: 10px 32px;
+
+  &:hover,
+  &:focus {
+    background-color: #188ce8;
+    color: #ffffff;
+  }
+}
+// NA POTOM
+// @media screen and (min-width: 768px) {
+//   .modal_btn_hero {
+//     display: block;
+//   }
+// }
+
+// .modal_btn_hero {
+//   font-weight: 700;
+//   font-size: 16px;
+//   line-height: 1.87;
+//   text-align: center;
+//   cursor: pointer;
+//   background-color: var(--accent-color);
+//   color: #ffffff;
+//   border: transparent;
+//   border-radius: 4px;
+//   letter-spacing: 0.06em;
+//   min-width: 200px;
+//   padding: 10px 32px;
+
+//   &:hover,
+//   &:focus {
+//     background-color: #188ce8;
+//     color: #ffffff;
+//   }
+// }
