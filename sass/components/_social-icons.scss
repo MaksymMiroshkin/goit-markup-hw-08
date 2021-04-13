@@ -6,6 +6,7 @@
     margin-right: 10px;
   }
 }
+
 .social__icon-link {
   display: flex;
   height: 44px;
@@ -26,6 +27,15 @@
     fill: white;
   }
 }
+
+.footer .social__icon-list .social__icon-link {
+  background: rgba(255, 255, 255, 0.1);
+  margin-right: 4px;
+}
+.footer .social__icon-list {
+  margin-bottom: 60px;
+}
+
 .social__icons {
   fill: #afb1b8;
   width: 20px;
