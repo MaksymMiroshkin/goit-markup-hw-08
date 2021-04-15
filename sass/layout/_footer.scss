@@ -42,6 +42,10 @@
   color: rgba(255, 255, 255, 0.6);
 }
 
+.address-block {
+  display: inline-block;
+}
+
 @media screen and (max-width: 767px) {
   .footer-wraper {
     text-align: center;
